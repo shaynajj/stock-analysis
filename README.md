@@ -1,25 +1,27 @@
-#VBA of Wall Street
+# VBA of Wall Street
 
-##Overview of Project
+## Overview of Project
 
-###Purpose
+### Purpose
 The purpose of this analysis was to calculate the Total Daily Volume and the Return Rate of 12 different stocks.
 
-##Results
+## Results
 
-###Stock Performance
+### Stock Performance
 From the analysis, I determined that in 2017 all of the stocks except TERP had positive returns. The following year, however, the returns had vastly different results. In 2018, all of the stocks except ENPH and RUN had negative returns. So if I were making a determination of which stocks to invest my money in, I would select ENPH and RUN because they had 2 consecutive years of a positive return.
 
-###Execution Times
+### Execution Times
 As you can see below, the execution times of the original scripts were about 2 seconds and 1.6 seconds.
+
 ![Original Script Execution Time for 2017](./Resources/VBA_Challenge_2017_Original.png)
 ![Original Script Execution Time for 2018](./Resources/VBA_Challenge_2018_Original.png)
 
 The refactored script decreased the execution time significantly to 0.33 and 0.29 seconds accordingly, allowing the end user to retrieve the information in less than half of a second. The execution time decreased by more than 75%.
+
 ![Refactored Script Execution Time for 2017](./Resources/VBA_Challenge_2017.png)
 ![Refactored Script Execution Time for 2018](./Resources/VBA_Challenge_2018.png)
 
-##Summary
+## Summary
 -What are the advantages or disadvantages of refactoring code?
      1) An advantage of refactoring code is increasing efficiency of your output and execution.
      2) A disadvantage of refactoring code is that it will take more time and can affect you if you are on a deadline.
