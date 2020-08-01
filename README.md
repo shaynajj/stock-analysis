@@ -16,7 +16,7 @@ As you can see below, the execution times of the original scripts were about 2 s
 ![Original Script Execution Time for 2017](./Resources/VBA_Challenge_2017_Original.png)
 ![Original Script Execution Time for 2018](./Resources/VBA_Challenge_2018_Original.png)
 
-The refactored script decreased the execution time significantly to 0.33 and 0.29 seconds accordingly, allowing the end user to retrieve the information in less than half of a second. The execution time decreased by more than 75%.
+The refactored script decreased the execution time significantly to 0.33 and 0.29 seconds respectively, allowing the end user to retrieve the information in less than half of a second. The execution time decreased by more than 75%.
 
 ![Refactored Script Execution Time for 2017](./Resources/VBA_Challenge_2017.png)
 ![Refactored Script Execution Time for 2018](./Resources/VBA_Challenge_2018.png)
